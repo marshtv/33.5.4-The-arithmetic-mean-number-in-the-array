@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "33_5_4_The_arithmetic_mean_number_in_the_array",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "33_5_4_The_arithmetic_mean_number_in_the_array::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-33_5_4_The_arithmetic_mean_number_in_the_array-Debug-a076ebeb0dcaabcaf973.json",
+					"name" : "33_5_4_The_arithmetic_mean_number_in_the_array",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/__C++/Skillbox/33 Using Exceptions/33.5.4 The arithmetic mean number in the array/cmake-build-debug",
+		"source" : "F:/__C++/Skillbox/33 Using Exceptions/33.5.4 The arithmetic mean number in the array"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

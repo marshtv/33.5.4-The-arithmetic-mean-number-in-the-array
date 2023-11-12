@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.26)
+project(33_5_4_The_arithmetic_mean_number_in_the_array)
+
+set(CMAKE_CXX_STANDARD 23)
+
+add_executable(33_5_4_The_arithmetic_mean_number_in_the_array main.cpp)
